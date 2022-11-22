@@ -29,7 +29,7 @@
         },
         "Start_Message": {
             "description": "The bot will send this message when user send /start",
-            "value": "😘 Hi I am https://bit.ly/3dRKhmI , 
+            "value": "Hi I am https://bit.ly/3dRKhmI , 
 🌟Send me any file to get the direct download link🔗"
         },
         "Session_String": {
