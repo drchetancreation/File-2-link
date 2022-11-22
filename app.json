@@ -38,7 +38,6 @@
         "Bot_Channel_UserName": {
             "description": "[Optional] The UserName of any channel to force users to join it before using the bot, Make sure to make the bot admin in this channel",
             "value": "@seecinem" 
-            "required": false
         }
     },
     "stack": "heroku-20",
